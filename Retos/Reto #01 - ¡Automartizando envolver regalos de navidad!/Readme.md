@@ -15,6 +15,7 @@ console.log(wrapped)
   "******\n*game*\n******",
   "*******\n*socks*\n*******"
 ] */
+
 Como ves, el papel de regalo envuelve el string. Por arriba y por abajo, para no dejar ningún hueco, las esquinas también están cubiertas por el papel de regalo.
 
 Nota: El carácter \n representa un salto de línea.
